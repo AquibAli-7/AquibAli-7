@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">🔭 Working on: Python & Data Science <br>👯 Open to: Collaborative projects   <br>🌱 Learning: Machine Learning  <br>🎯 Goal: Become a skilled Data Scientist <br>💬 Ask me about: Python, SQL   <br>⚡ Fun fact: I love writing poetry <br> ->Learning data, chasing patterns, solving real problems When code rests, writing poetry from the soul .</h5>
+<p align="left">🔭 Working on: Python & Data Science <br>👯 Open to: Collaborative projects   <br>🌱 Learning: Machine Learning  <br>🎯 Goal: Become a skilled Data Scientist <br>💬 Ask me about: Python, SQL   <br>⚡ Fun fact: I love writing poetry <br> ->Learning data, chasing patterns, solving real problems When code rests, writing poetry from the soul .</p>
 
 ###
 
