@@ -12,7 +12,7 @@
  
   <!-- Code snippet (with id for targeting) -->
   <pre><code id="my-code-snippet">
-# Example code snippet
+# I am aquib , Mai kuch pal k liye loda rehna chahta hu
 print("Hello, World!")
 for i in range(5):
     print(i)
