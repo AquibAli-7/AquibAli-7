@@ -1,4 +1,4 @@
-# hi i m Aquib Ali
+# Hey i am Aquib Ali
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
